@@ -1,0 +1,10 @@
+.mainCarousel img{
+    width: 100vw;
+    height: 80vh;
+}
+@media screen and (max-width: 700px) {
+    .mainCarousel img{
+        width: 100vw;
+        height: 50vh;
+    }
+}
